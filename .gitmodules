@@ -1,0 +1,3 @@
+[submodule "testsub"]
+	path = testsub
+	url = git@github.com:gaoglegao/testsub.git
