@@ -1,7 +1,7 @@
 {
   "name": "gaogle OpenSea Creatures",
   "description": "测试我的描述",
-  "image": "https://ipfs.io/ipfs/QmUz1Wo6eTy1VJP4FGQ1H7WwDW1QPRPnVNA4gZbgqf8YDq/1",
+  "image": "QmUz1Wo6eTy1VJP4FGQ1H7WwDW1QPRPnVNA4gZbgqf8YDq/2",
   "external_link": "https://openseacreatures.io",
   "seller_fee_basis_points": 100, 
   "fee_recipient": "0x2fE512a1dDE1c4C2294D735bb80940597FfB3775" 
